@@ -1,5 +1,7 @@
 # SiG website
 
+# SiG website
+
 Assalamualaikum, Hello there! welcome to SiG FSTM repository for SiG website development. We are a group of students from FSTM KUIS that love to share knowledge about the technology.
 
 We are all students from Computer Science, Networking and Multimedia in IT at KUIS.
@@ -21,7 +23,7 @@ Here we build a website with help from Jekyll (as site generator) and hosted wit
 - HTML, CSS, Jquery.
 - Git
 
-
-### How to contribute?
+### Want to contribute?
+Hey, we have written a documentation specifically about contribution in this repository wiki page. Have a [look](404)
 
 ### FAQ?
