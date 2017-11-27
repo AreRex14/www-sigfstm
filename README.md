@@ -1,7 +1,4 @@
 # SiG website
-
-# SiG website
-
 Assalamualaikum, Hello there! welcome to SiG FSTM repository for SiG website development. We are a group of students from FSTM KUIS that love to share knowledge about the technology.
 
 We are all students from Computer Science, Networking and Multimedia in IT at KUIS.
