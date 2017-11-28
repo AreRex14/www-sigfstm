@@ -9,6 +9,7 @@ Here we build a website with help from Jekyll (as site generator) and hosted wit
 - Most of the CSS code and Jquery script is built from scratch by contributors
 - Static website with blog-aware (Jekyll)
 - Hosted on Github
+- Mobile first design
 
 **Objective:**
 - Create open source environment
