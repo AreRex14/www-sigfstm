@@ -26,6 +26,8 @@ Here we build a website with help from Jekyll (as site generator) and hosted wit
 
 ### Want to contribute?
 Hey, we have written a documentation specifically about contribution ~~in this repository wiki page.~~ Have a [look](404)
-(Opss, we are not going to use wiki page for the time being) You can create markdown file to contribute in Documentation.
+(Opss, we are not going to use wiki page for the time being) You can create markdown file to contribute in Documentation. 
+
+for example: `how-to-run-jekyll-on-windows.md`
 
 ### FAQ?
