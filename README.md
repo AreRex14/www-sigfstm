@@ -11,11 +11,14 @@ Here we build a website with help from Jekyll (as site generator) and hosted wit
 - Hosted on Github
 - Mobile first design
 
-**Objective:**
+**Goals:**
 - Create open source environment
 - Improve core skills in web development
 - Understanding in basic how website works
 - Encourage contribution to others Open Source projects
+- Best practice in git commit
+- Understanding Open Source
+- Getting familiar with Github features
 
 **Prerequisites:**
 - HTML, CSS, Jquery.
