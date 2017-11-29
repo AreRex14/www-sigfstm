@@ -21,8 +21,21 @@ Here we build a website with help from Jekyll (as site generator) and hosted wit
 - Getting familiar with Github features
 
 **Prerequisites:**
-- HTML, CSS, Jquery.
+- Basic HTML, CSS, Jquery.
 - Git
+
+### Getting started
+Make sure your computer already installed ruby. You can check it by run `ruby -v` in terminal. This is used to make sure jekyl run properly. Check out [kaitoAckerman](https://github.com/kaitoAckerman) on his [post](https://kaitoackerman.site/gem-and-ruby/) about Gem and Ruby :p.
+
+```
+~ ➜ ruby -v
+ruby 2.4.2p198 (2017-09-14 revision 59899) [x86_64-linux]
+```
+
+Once Ruby is installed, you can start fork this repository by clicking fork button and clone it to your computer.
+
+In your local computer, in project root directory. You can open up terminal and run `gem install bundler` and then `bundle install`. That's it. Now you can start contributing. Of course you need some information about how the folder structure works, you can check it [here](500).
+
 
 ### Want to contribute?
 Hey, we have written a documentation specifically about contribution ~~in this repository wiki page.~~ Have a [look](404)
