@@ -13,21 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: SiG FSTM
+title: SiG FSTM KUIS
 email: norfarhan.norizam@kuis.edu.my
 description: >- # this means to ignore newlines until "baseurl:"
-  OpenSource static website with Jekyll and Github. PR aka pull request are VERY very welcome ;)
-baseurl: "/www-sigfstm" # the subpath of your site, e.g. /blog
-url: "https://sig-fstm.github.io/www-sigfstm" # the base hostname & protocol for your site, e.g. http://example.com
-# twitter_username: 
-# github_username: 
+  SiG FSTM KUIS is a group of students that share the same enthusiasm 
+  in variety of IT fields to get in touch with the IT world, 
+  expand their knowledge, grabbing opportunities and else.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sig-fstm.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: 
+#github_username:  
 
 # Build settings
 markdown: kramdown
+#theme: minima
 plugins:
   - jekyll-feed
-sass:
-  sass_dir: _sass
+#sass:
+#  sass_dir: _sass
 include: ['_pages']
 
 # Exclude from processing.
@@ -41,3 +44,8 @@ include: ['_pages']
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+#running jekyll build will use below parameters, run explicityly jekyll build --source <source> --destination <destination> by changing 
+#source: _destination destination: _site for final deployment version 
+source:      _source
+destination: _destination
